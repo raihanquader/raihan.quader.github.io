@@ -19,7 +19,7 @@ locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "Dr. Raihan Quader"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Assistant Professor - Applied Engineering"
 name                     : "Dr. Raihan Quader"
 description              : "Researcher"
 url                      : "https://raihanquader.github.io/"
