@@ -16,7 +16,7 @@ subtitle                 : "Mechanical Engineering | Manufacturing | Mechatronic
 name                     : "Raihan Quader"
 description              : "Professional website of Raihan Quader."
 url                      : "https://raihanquader.github.io"
-baseurl                  : ""
+baseurl                  : "/test"
 repository               : "raihanquader/raihanquader.github.io"
 teaser                   :
 logo                     :
