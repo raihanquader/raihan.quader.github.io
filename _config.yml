@@ -114,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dr. Raihan Quader"
   avatar           : "/assets/images/Headshot_Raihan Quader.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Researcher"
+  location         : "Jacksonville, AL"
+  email            : "rquader@jsu.edu"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
