@@ -168,8 +168,8 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages/About.md
-  - _pages/Research Projects.md
+  - "_pages/About.md"
+  - "_pages/Research Projects.md"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
